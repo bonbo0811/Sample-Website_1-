@@ -9,13 +9,38 @@
 
 <body>
     <div class="header">
-        <h1>ヘッダー</h1>
+        <h1>sample</h1>
+        <div class="nav">
+            <ul>
+                <li>About</li>
+                <li>Bicycle</li>
+            </ul>
+        </div>
     </div>
     <div class="main">
-        <p>メイン</p>
+        <div class="mainvisual">
+
+        </div>
+        <section class="About">
+            <h2>About</h2>
+            <p>テキストテキストテキスト</p>
+            <div class="profile">
+                <h3>
+
+                </h3>
+            </div>
+        </section>
+        <section class="Bicycle">
+            <h2>Bicycle</h2>
+            <ul class="bike">
+                <li>タイトル①</li>
+                <li>タイトル②</li>
+                <li>タイトル③</li>
+            </ul>
+        </section>
     </div>
     <div class="footer">
-        <p>フッダー</p>
+        <p>2022 kent_okubo</p>
     </div>
 </body>
 
