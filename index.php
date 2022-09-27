@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
     <title>Sample Site ①</title>
 </head>
 
@@ -13,14 +14,14 @@
         <div class="nav">
             <ul>
                 <li>About</li>
-                <li>Bicycle</li>
+                <li>Hobby</li>
             </ul>
         </div>
     </div>
     <div class="main">
         <div class="mainvisual">
 
-        </div>
+        </div class="sec">
         <section class="About">
             <h2>About</h2>
             <p>テキストテキストテキスト</p>
@@ -30,9 +31,9 @@
                 </h3>
             </div>
         </section>
-        <section class="Bicycle">
-            <h2>Bicycle</h2>
-            <ul class="bike">
+        <section class="Hobby">
+            <h2>Hobby</h2>
+            <ul class="hobbyList">
                 <li>タイトル①</li>
                 <li>タイトル②</li>
                 <li>タイトル③</li>
