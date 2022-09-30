@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="CSS/styleProfile.css">
     <title>Sample Site ①</title>
 </head>
 
@@ -24,14 +24,15 @@
         </div>
         <div class="sec">
             <section class="About">
+                <h2><a id="About"><span class="under">About</span></a></h2>
                 <div class="profile">
-                    <h2><a id="About"><span class="under">About</span></a></h2>
-                    <p>テキストテキストテキスト</p>
+                    <img src="images/profile_pic.jpg" alt="プロフィールの画像">
+                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
                 </div>
             </section>
             <section class="Hobby">
+                <h2><a id="Hobby"><span class="under">Hobby</span></a></h2>
                 <div class="Hobby">
-                    <h2><a id="Hobby"><span class="under">Hobby</span></a></h2>
                     <ul class="hobbyList">
                         <li>タイトル①</li>
                         <li>タイトル②</li>
