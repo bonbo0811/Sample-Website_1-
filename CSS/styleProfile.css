@@ -70,3 +70,34 @@ body{
     font-weight: bold;
     font-size: 26px;
 }
+
+.sec .profile{
+    height: 180px;
+    display: flex;
+    justify-content: center;
+}
+
+.sec .profile img{
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+    margin: auto 20px auto 0;
+}
+
+.sec .profile p{
+    width: 350px;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.sec .Hobby ul{
+    height: 250px;
+    display: flex;
+    list-style: none;
+    margin:0 auto;
+    justify-content: center;
+}
+
+.footer{
+    text-align: center;
+}
