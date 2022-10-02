@@ -16,7 +16,7 @@ body{
     font-size: 20px;
     padding: 5px 10px;
     margin: 0 auto;
-    background-color: #C0C0C0;
+    background-color: black;
     color: #FFFFFF;
 }
 
@@ -42,11 +42,12 @@ body{
 /* メインのCSS */
 .main{
     text-align: center;
+    min-height: 100vh;
 }
 
 .mainvisual{
     margin-top: 10px;
-    height: 600px;
+    height: 800px;
     margin-right: calc(50% - 50vw);
 	margin-left: calc(50% - 50vw);
 }
@@ -95,6 +96,7 @@ body{
 }
 
 .sec .profile li h3{
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 
@@ -129,10 +131,116 @@ body{
     margin: 5px auto;
 }
 
-
-
 .footer{
+    position: sticky;
+    top: 100vh;
     color: #C0C0C0;
     margin-top: 50px;
     text-align: center;
+}
+
+
+/* レスポンシブ対応 */
+
+@media screen and (max-width:600px) {
+    body{
+        min-width: 100%;
+    }
+
+    /* ヘッダーのCSS */
+
+    .header h1{
+        margin: 0 0 0 40px;
+        padding: 5px 25px ;
+        font-size: 60px;
+    }
+
+    .header .nav {
+        margin: auto 30px auto auto;
+    }
+
+    .header .nav ul li{
+        font-size: 35px;
+        margin-left: 45px;
+    }
+
+    /* メインのCSS */
+
+    .mainvisual {
+        margin: 30px 0 0 0;
+    }
+
+/* セクションのCSS */
+
+    .sec{
+        margin-top: 100px;
+    }
+
+    .sec .under{
+        font-size: 70px;
+    }
+
+    .sec .profile{
+        margin-top: 90px;
+        height: 600px;
+        display: block;
+        justify-content: center;
+    }
+
+    .sec .profile img{
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        margin: auto 20px auto 0;
+    }
+
+    .sec .profile ul{
+        margin: 0 30px ;
+    }
+
+    .sec .profile li {
+        width: 100%;
+        font-size: 40px;
+        text-align: left;
+    }
+    .sec .Hobby{
+        height: 1000px;
+    }
+
+    .sec .Hobby ul{
+        height: 800px;
+        display: block;
+        list-style: none;
+        padding-left: 0;
+        margin:80px auto;
+        justify-content: center;
+    }
+
+    .sec .Hobby ul li {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 40px; 
+    }
+
+    .sec .Hobby ul li img {
+        width: 90%;
+    }
+
+    .sec .Hobby ul li h3 {
+        font-size: 40px;
+        margin: 20px auto;
+    }
+
+    .sec .Hobby ul li p {
+        font-size: 40px;
+        margin: 5px auto;
+    }
+
+    .footer{
+        color: red;
+        font-size: 30px;
+        position: absolute;
+        bottom: 20px;
+    }
+
 }
