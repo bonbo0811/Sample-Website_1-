@@ -84,10 +84,24 @@ body{
     margin: auto 20px auto 0;
 }
 
+.sec .profile ul{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.sec .profile li {
+    width: 350px;
+    text-align: left;
+}
+
+.sec .profile li h3{
+    margin-bottom: 10px;
+}
+
 .sec .profile p{
     width: 350px;
     text-align: left;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .sec .Hobby ul{
@@ -98,6 +112,27 @@ body{
     justify-content: center;
 }
 
+.sec .Hobby ul li {
+    width: 200px;
+    margin: 20px; 
+}
+
+.sec .Hobby ul li img {
+    width: 100%;
+}
+
+.sec .Hobby ul li h3 {
+    margin: 0 auto;
+}
+
+.sec .Hobby ul li p {
+    margin: 5px auto;
+}
+
+
+
 .footer{
+    color: #C0C0C0;
+    margin-top: 50px;
     text-align: center;
 }
