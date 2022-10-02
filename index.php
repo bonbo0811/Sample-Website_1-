@@ -27,23 +27,38 @@
                 <h2><a id="About"><span class="under">About</span></a></h2>
                 <div class="profile">
                     <img src="images/profile_pic.jpg" alt="プロフィールの画像">
-                    <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+                    <ul>
+                        <li><h3>name</h3></li>
+                        <li>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</li>
+                    </ul>
                 </div>
             </section>
             <section class="Hobby">
                 <h2><a id="Hobby"><span class="under">Hobby</span></a></h2>
                 <div class="Hobby">
-                    <ul class="hobbyList">
-                        <li>タイトル①</li>
-                        <li>タイトル②</li>
-                        <li>タイトル③</li>
+                    <ul>
+                        <li>
+                            <img src="images/タイトル①.jpg" alt="自転車の画像">
+                            <h3>タイトル</h3>
+                            <p>テキストテキストテキスト</p>
+                        </li>
+                        <li>
+                            <img src="images/タイトル②.jpg" alt="自転車の画像">
+                            <h3>タイトル</h3>
+                            <p>テキストテキストテキスト</p>
+                        </li>
+                        <li>
+                            <img src="images/タイトル③.jpg" alt="自転車の画像">
+                            <h3>タイトル</h3>
+                            <p>テキストテキストテキスト</p>
+                        </li>
                     </ul>
                 </div>
             </section>
         </div>
     </div>
     <div class="footer">
-        <p>2022 kent_okubo</p>
+        <small>okubo_web 2022</small>
     </div>
 </body>
 
