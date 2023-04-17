@@ -10,17 +10,19 @@
 
 <body>
     <div class="header">
-        <h1>Sample</h1>
+        <h1>My Works</h1>
         <div class="nav">
             <ul>
                 <li><a href="#About">About</a></li>
-                <li><a href="#Hobby">Hobby</a></li>
+                <li><a href="#Works">Works</a></li>
+                <li><a href="#News">News</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
         </div>
     </div>
     <div class="main">
         <div class="mainvisual">
-            <img src="../images/camp_pic.jpg" alt="キャンプの画像">
+            <img src="../images_2/mainvisual-pc.jpg" alt="キャンプの画像">
         </div>
         <div class="sec">
             <section class="About">
@@ -33,9 +35,12 @@
                     </ul>
                 </div>
             </section>
-            <section class="Hobby">
-                <h2><a id="Hobby"><span class="under">Hobby</span></a></h2>
-                <div class="Hobby">
+            <section class="Works">
+                works
+            </section>
+            <section class="News">
+                <h2><a id="News"><span class="under">Hobby</span></a></h2>
+                <div class="News">
                     <ul>
                         <li>
                             <img src="images/タイトル①.jpg" alt="自転車の画像">
@@ -55,10 +60,13 @@
                     </ul>
                 </div>
             </section>
+            <section class="contact">
+                contact
+            </section>
         </div>
     </div>
     <div class="footer">
-        <small>okubo_web 2022</small>
+        <small>okubo_web 2023</small>
     </div>
 </body>
 

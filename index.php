@@ -38,7 +38,7 @@
                 <div class="Hobby">
                     <ul>
                         <li>
-                            <img src="images/タイトル①.jpg" alt="自転車の画像">
+                            <a href="./HTML/SecondSite.php"><img src="images/タイトル①.jpg" alt="自転車の画像"></a>
                             <h3>WEBサイト</h3>
                             <p>作成したサンプルウェブページです。</p>
                         </li>
