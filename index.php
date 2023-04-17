@@ -10,7 +10,7 @@
 
 <body>
     <div class="header">
-        <h1>sample</h1>
+        <h1>Sample Web Site</h1>
         <div class="nav">
             <ul>
                 <li><a href="#About">About</a></li>
@@ -28,7 +28,7 @@
                 <div class="profile">
                     <img src="images/profile_pic.jpg" alt="プロフィールの画像">
                     <ul>
-                        <li><h3>name</h3></li>
+                        <li><h3>大久保 賢人</h3></li>
                         <li>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</li>
                     </ul>
                 </div>
@@ -39,7 +39,7 @@
                     <ul>
                         <li>
                             <img src="images/タイトル①.jpg" alt="自転車の画像">
-                            <h3>タイトル</h3>
+                            <h3>WEBサイト</h3>
                             <p>テキストテキストテキスト</p>
                         </li>
                         <li>
