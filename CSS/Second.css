@@ -39,6 +39,7 @@
 
 .mainvisual{
     height: 420px;
+    margin-bottom: 80px;
     margin-right: calc(50% - 50vw);
 	margin-left: calc(50% - 50vw);
 }
@@ -47,4 +48,16 @@
     display: block;
 	width: 100%;
 	height: 100%;
+}
+
+/* セクションのCSS */
+
+.sec h2{
+    font-weight: 550;
+    margin-top: 0;
+    margin-bottom: 80px;
+}
+
+.sec .profile{
+    margin-bottom: 80px;
 }
