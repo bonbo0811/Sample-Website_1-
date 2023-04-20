@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../CSS/styleProfile.css">
+    <link rel="stylesheet" href="../CSS/Base.css">
+    <link rel="stylesheet" href="../CSS/Second.css">
     <title>Sample Site ①</title>
 </head>
 
@@ -22,16 +23,18 @@
     </div>
     <div class="main">
         <div class="mainvisual">
-            <img src="../images_2/mainvisual-pc.jpg" alt="キャンプの画像">
+            <img src="../images_2/mainvisual-pc.jpg" alt="メインの画像">
         </div>
         <div class="sec">
             <section class="About">
                 <h2><a id="About"><span class="under">About</span></a></h2>
                 <div class="profile">
-                    <img src="images/profile_pic.jpg" alt="プロフィールの画像">
+                    <h3>Xxxxx Ashley</h3>
                     <ul>
-                        <li><h3>大久保 賢人</h3></li>
-                        <li>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</li>
+                        <li>2th Floor xxxxx Building x-x-x Nishiazabu, Minato-ku, Tokyo 106-0031 Japan</li>
+                        <li>tel: 000-0000-0000</li>
+                        <li>url: www.xxxxxx.jp</li>
+                        <li>mail: xxx@xxxxxx.jp</li>
                     </ul>
                 </div>
             </section>
