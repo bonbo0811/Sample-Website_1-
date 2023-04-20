@@ -58,6 +58,18 @@
     margin-bottom: 80px;
 }
 
+.sec .profile ul{
+    padding-left: 0;
+    list-style: none;
+    text-align: left;
+}
+
 .sec .profile{
+    padding: 0 100px;
     margin-bottom: 80px;
+}
+
+.sec .profile p{
+    text-align: left;
+    margin-top: 50px;
 }
