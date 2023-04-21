@@ -47,7 +47,7 @@
             <section class="Works">
                 <h2><a id="Works">Works</a></h2>
                 <div class="Works">
-                    <ul>
+                    <ul class="Works-list">
                         <li>
                             <img src="../images/タイトル①.jpg" alt="自転車の画像">
                         </li>
