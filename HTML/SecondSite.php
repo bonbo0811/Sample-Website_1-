@@ -11,7 +11,7 @@
 
 <body>
     <div class="header">
-        <h1>My Works</h1>
+        <h1>My Work</h1>
         <div class="nav">
             <ul>
                 <li><a href="#About">About</a></li>
@@ -45,32 +45,82 @@
                 </div>
             </section>
             <section class="Works">
-                <h2><a id="Works">Work</a></h2>
+                <h2><a id="Works">Works</a></h2>
                 <div class="Works">
                     <ul>
                         <li>
                             <img src="images/タイトル①.jpg" alt="自転車の画像">
-                            <h3>WEBサイト</h3>
-                            <p>作成したサンプルウェブページです。</p>
                         </li>
                         <li>
                             <img src="images/タイトル②.jpg" alt="自転車の画像">
-                            <h3>タイトル</h3>
-                            <p>テキストテキストテキスト</p>
                         </li>
                         <li>
                             <img src="images/タイトル③.jpg" alt="自転車の画像">
-                            <h3>タイトル</h3>
-                            <p>テキストテキストテキスト</p>
+                        </li>
+                        <li>
+                            <img src="images/タイトル③.jpg" alt="自転車の画像">
+                        </li>
+                        <li>
+                            <img src="images/タイトル③.jpg" alt="自転車の画像">
+                        </li>
+                        <li>
+                            <img src="images/タイトル③.jpg" alt="自転車の画像">
                         </li>
                     </ul>
                 </div>
             </section>
             <section class="News">
                 <h2><a id="News">News</a></h2>
+                <dl>
+                    <dt>
+                        2020.XX.XX
+                    </dt>
+                    <dd>
+                        デザイン雑誌「ＸＸＸＸＸＸ Vol.11』に掲載していただきました。
+                    </dd>
+                    <dt>
+                        22020.XX.XX
+                    </dt>
+                    <dd>
+                        ＸＸ月ＸＸ日から写真集「ＸＸＸＸＸＸＸ」の販売を開始します。
+                    </dd>
+                    <dt>
+                        2019.XX.XX
+                    </dt>
+                    <dd>
+                        【イベント開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト
+                    </dd>
+                    <dt>
+                        2019.XX.XX
+                    </dt>
+                    <dd>
+                        デザイン雑誌「ＸＸＸＸＸＸ Vol.10』に掲載していただきました。
+                    </dd>
+                    <dt>
+                        2019.XX.XX
+                    </dt>
+                    <dd>
+                        【個展開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト
+                    </dd>
+                </dl>
             </section>
             <section class="Contact">
                 <h2><a id="Contact">Contact</a></h2>
+                <form action="">
+                    <div>
+                        <label for="NAME">NAME</label>
+                        <input type="text" id="NAME" name="NAME">
+                    </div>
+                    <div>
+                        <label for="E-mail">E-mail</label>
+                        <input type="mail" id="E-mail" name="E-mail">
+                    </div>
+                    <div>
+                        <label for="MESSAGE">MESSAGE</label>
+                        <input type="textarea" id="MESSAGE" name="MESSAGE">
+                    </div>
+                    <button>送信</button>
+                </form>
             </section>
         </div>
     </div>
