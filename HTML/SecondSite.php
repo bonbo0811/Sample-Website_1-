@@ -80,25 +80,21 @@
                     <dd>【イベント開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト</dd>
                     <dt>2019.XX.XX</dt>
                     <dd>デザイン雑誌「ＸＸＸＸＸＸ Vol.10』に掲載していただきました。</dd>
-                    <dt>2019.XX.XX</dt>
-                    <dd>【個展開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト</dd>
+                    <dt class="ddend">2019.XX.XX</dt>
+                    <dd class="ddend">【個展開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト</dd>
                 </dl>
             </section>
             <section class="Contact">
                 <h2><a id="Contact">Contact</a></h2>
                 <form action="">
-                    <div>
-                        <label for="NAME">NAME</label>
-                        <input type="text" id="NAME" name="NAME">
-                    </div>
-                    <div>
-                        <label for="E-mail">E-mail</label>
-                        <input type="mail" id="E-mail" name="E-mail">
-                    </div>
-                    <div>
-                        <label for="MESSAGE">MESSAGE</label>
-                        <input type="textarea" id="MESSAGE" name="MESSAGE">
-                    </div>
+                    <dl>
+                        <dt>NAME</dt>
+                        <dd><input type="text" id="NAME" name="NAME"></dd>
+                        <dt>E-mail</dt>
+                        <dd><input type="mail" id="E-mail" name="E-mail"></dd>
+                        <dt>MESSAGE</dt>
+                        <dd><input type="textarea" id="MESSAGE" name="MESSAGE"></dd>
+                    </dl>
                     <button>送信</button>
                 </form>
             </section>
