@@ -168,10 +168,22 @@
     padding: 15px 70px;
     border-radius: 0;
     border: 1px solid #000;
+    margin-bottom: 80px;
 }
 
 .sec .Contact a button:hover{
     color: #000;
 	background: #fff;
     cursor: pointer;
+}
+
+/* フッターのCSS */
+
+.footer{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin-right: calc(50% - 50vw);
+	margin-left: calc(50% - 50vw);
 }
