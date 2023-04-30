@@ -126,7 +126,7 @@
 }
 
 .sec .News .ddend{
-    border-bottom: 1px solid #CCCCCC;
+    border-bottom: 1px solid #c8c8c8;
 }
 
 /* ContactのCSS */
@@ -151,13 +151,15 @@
 
 .sec .Contact input{
     width: 100%;
-    color: #CCCCCC;
-    height: 30px;
+    padding: 10px;
+    border: solid 1px #c8c8c8;
 }
 
 .sec .Contact .message textarea{
     width: 100%;    
     height:120px;
+    padding: 10px;
+    border-color: #c8c8c8;
 }
 
 .sec .Contact button{
