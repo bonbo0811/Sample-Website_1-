@@ -107,6 +107,7 @@
 .sec .News dl{
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 80px;
 }
 
 .sec .News dl dt{
@@ -126,4 +127,39 @@
 
 .sec .News .ddend{
     border-bottom: 1px solid #CCCCCC;
+}
+
+/* ContactのCSS */
+
+.sec .Contact dl{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sec .Contact dl dt{
+    width: 15%;
+    text-align: left;
+    padding: 5px;
+}
+
+.sec .Contact dl dd{
+    width: 70%;
+    text-align: left;
+    padding: 5px;
+    margin-left: 0;
+}
+
+.sec .Contact input{
+    width: 100%;
+    color: #CCCCCC;
+    height: 30px;
+}
+
+.sec .Contact .message textarea{
+    width: 100%;    
+    height:120px;
+}
+
+.sec .Contact button{
+    padding: 10px 70px;
 }
