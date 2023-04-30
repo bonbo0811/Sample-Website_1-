@@ -93,7 +93,7 @@
                         <dt>E-mail</dt>
                         <dd><input type="mail" id="E-mail" name="E-mail"></dd>
                         <dt>MESSAGE</dt>
-                        <dd><input type="textarea" id="MESSAGE" name="MESSAGE"></dd>
+                        <dd class="message"><textarea name="" id="MESSAGE" name="MESSAGE"></textarea></dd>
                     </dl>
                     <button>送信</button>
                 </form>
