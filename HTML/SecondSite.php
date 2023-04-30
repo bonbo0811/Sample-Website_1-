@@ -95,7 +95,7 @@
                         <dt>MESSAGE</dt>
                         <dd class="message"><textarea name="" id="MESSAGE" name="MESSAGE"></textarea></dd>
                     </dl>
-                    <button>送信</button>
+                    <a href=""><button>送信</button></a>
                 </form>
             </section>
         </div>
