@@ -163,5 +163,15 @@
 }
 
 .sec .Contact button{
-    padding: 10px 70px;
+    background-color: #000;
+    color: #fff;
+    padding: 15px 70px;
+    border-radius: 0;
+    border: 1px solid #000;
+}
+
+.sec .Contact a button:hover{
+    color: #000;
+	background: #fff;
+    cursor: pointer;
 }
