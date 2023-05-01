@@ -100,9 +100,9 @@
             </section>
         </div>
     </div>
-    <div class="footer">
+    <footer>
         <small>2023 My Work </small>
-    </div>
+    </footer>
 </body>
 
 </html>
