@@ -49,22 +49,22 @@
                 <div class="Works">
                     <ul class="Works-list">
                         <li>
-                            <img src="../images/タイトル①.jpg" alt="自転車の画像">
+                            <img src="../images_2/works1.jpg" alt="自転車の画像">
                         </li>
                         <li>
-                            <img src="../images/タイトル②.jpg" alt="自転車の画像">
+                            <img src="../images_2/works2.jpg" alt="自転車の画像">
                         </li>
                         <li>
-                            <img src="../images/タイトル②.jpg" alt="自転車の画像">
+                            <img src="../images_2/works3.jpg" alt="自転車の画像">
                         </li>
                         <li>
-                            <img src="../images/タイトル②.jpg" alt="自転車の画像">
+                            <img src="../images_2/works4.jpg" alt="自転車の画像">
                         </li>
                         <li>
-                            <img src="../images/タイトル②.jpg" alt="自転車の画像">
+                            <img src="../images_2/works5.jpg" alt="自転車の画像">
                         </li>
                         <li>
-                            <img src="../images/タイトル②.jpg" alt="自転車の画像">
+                            <img src="../images_2/works6.jpg" alt="自転車の画像">
                         </li>
                     </ul>
                 </div>
