@@ -233,7 +233,53 @@ footer{
 
     .About h2{
         font-size: 80px;
+        font-weight: 100;
         margin-bottom: 180px;
     }
 
+    .sec .profile{
+        padding: 0 40px;
+    }
+
+    h3{
+        font-weight: 100;
+    }
+
+    .sec .profile ul li{
+        font-size: 35px;
+    }
+
+    .sec .profile p{
+        font-size: 35px;
+    }
+
+    /* WorksのCSS */
+
+    .sec .Works h2{
+        font-size: 80px;
+        font-weight: 100;
+        margin-bottom: 180px;
+    }
+
+    .sec .Works ul{
+        padding: 0 30px;
+    }
+
+    .sec .Works ul li{
+        clear:both;
+        margin-bottom: 50px;
+    }
+
+    .sec .Works ul li img{
+        width: 850px;
+        height: 500px;
+    }
+
+    /* NewsのCSS */
+
+    .sec .News h2{
+        font-size: 80px;
+        font-weight: 100;
+        margin-bottom: 180px;
+    }
 }
