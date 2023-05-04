@@ -24,6 +24,7 @@
 
 .nav ul li {
     margin: 0 10px 0 10px;
+    font-weight: lighter;
 }
 
 .nav ul li a{
@@ -193,6 +194,8 @@ footer{
 
 @media screen and (max-width: 480px) {
 	
+    /* headerのCSS */
+
     .header{
         display: block;
         text-align: center;
@@ -204,7 +207,33 @@ footer{
     }
 
     .nav ul{ 
-        margin: 0 auto;
-        text-align: center;
+        justify-content: center;
+        margin-top: 20px;
+        font-weight: lighter;
     }
+
+    .nav ul li{
+        font-size: 35px;
+        margin: 0 30px;
+        font-weight: 100;
+    }
+
+    .nav ul li a{
+        font-weight: 100;
+    }
+
+    /* mainvisualのCSS */
+
+    .mainvisual{
+        margin: 0 0 150px 0;
+        height: 1200px;
+    }
+
+    /* AboutのCSS */
+
+    .About h2{
+        font-size: 80px;
+        margin-bottom: 180px;
+    }
+
 }
