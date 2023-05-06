@@ -23,7 +23,7 @@
     </div>
     <div class="main">
         <div class="mainvisual">
-            <img src="../images_2/mainvisual-pc.jpg" alt="メインの画像">
+            <img src="../images_2/mainvisual-pc1.jpg" alt="メインの画像">
         </div>
         <div class="sec">
             <section class="About">
