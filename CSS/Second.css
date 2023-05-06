@@ -130,6 +130,10 @@
     border-bottom: 1px solid #c8c8c8;
 }
 
+.sec .News .dtend{
+    border-bottom: 1px solid #c8c8c8;
+}
+
 /* ContactのCSS */
 
 .sec .Contact dl{
@@ -280,6 +284,27 @@ footer{
     .sec .News h2{
         font-size: 80px;
         font-weight: 100;
-        margin-bottom: 180px;
+        margin-bottom: 100px;
+    }
+
+    .sec .News dl{
+        justify-content: center;
+        font-size: 35px;
+    }
+    
+    .sec .News dl dt{
+        width: 85%;
+        padding: 30px 25px 5px 30px;
+    }
+    
+    .sec .News dl dd{
+        width: 85%;
+        padding: 0 30px 25px 30px;
+        border-top: 0;
+    }
+    
+    .sec .News .ddend{
+        width: 85%;
+        border-bottom: 0;
     }
 }
