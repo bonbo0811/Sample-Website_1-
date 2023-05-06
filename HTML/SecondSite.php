@@ -81,7 +81,7 @@
                     <dt>2019.XX.XX</dt>
                     <dd>デザイン雑誌「ＸＸＸＸＸＸ Vol.10』に掲載していただきました。</dd>
                     <dt class="ddend">2019.XX.XX</dt>
-                    <dd class="ddend">【個展開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト</dd>
+                    <dd class="dtend">【個展開催のお知らせ】テキストテキストテキストテキストテキストテキストテキスト</dd>
                 </dl>
             </section>
             <section class="Contact">
