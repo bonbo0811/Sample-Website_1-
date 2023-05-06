@@ -307,4 +307,49 @@ footer{
         width: 85%;
         border-bottom: 0;
     }
+
+    /* ContactのCSS */
+
+    .sec .Contact h2{
+        font-size: 80px;
+        font-weight: 100;
+    }
+
+    .sec .Contact dl{
+        font-size: 30px;
+        justify-content: center;
+    }
+    
+    .sec .Contact dl dt{
+        width: 90%;
+        margin-top: 15px;
+    }
+    
+    .sec .Contact dl dd{
+        width: 90%;
+    }
+    
+    .sec .Contact input{
+        height: 70px;
+    }
+    
+    .sec .Contact .message textarea{
+        height:250px;
+    }
+
+    .sec .Contact button{
+        margin-top: 30px;
+        font-size: 35px;
+        padding: 30px 200px;
+        margin-bottom: 150px;
+    }
+    
+    /* footerのCSS */
+
+    footer{
+        font-size: 25px;
+        text-align: center;
+        padding: 30px;
+        margin: 0;
+    }
 }
