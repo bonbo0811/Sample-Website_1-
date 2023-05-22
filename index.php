@@ -40,13 +40,13 @@
                     <ul>
                         <li>
                             <a href="./HTML/SecondSite.php"><img src="images/タイトル①.jpg" alt="自転車の画像"></a>
-                            <h3>WEBサイト</h3>
+                            <h3>WEBサイト1</h3>
                             <p>作成したサンプルウェブページです。</p>
                         </li>
                         <li>
-                            <img src="images/タイトル②.jpg" alt="自転車の画像">
-                            <h3>タイトル</h3>
-                            <p>テキストテキストテキスト</p>
+                            <a href="./HTML/ThirdSite.php"><img src="images/タイトル②.jpg" alt="自転車の画像"></a>
+                            <h3>WEBサイト2</h3>
+                            <p>作成したサンプルウェブページです。</p>
                         </li>
                         <li>
                             <img src="images/タイトル③.jpg" alt="自転車の画像">
