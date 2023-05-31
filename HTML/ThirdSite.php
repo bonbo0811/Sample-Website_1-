@@ -55,26 +55,50 @@
             <article>
                 <h2>テキストテキストテキスト</h2>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>2023年 1月1日</li>
+                    <li>カテゴリ2</li>
                 </ul>
+                <img src="../images_3/main1.jpg" alt="">
+                <p>
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                </p>
+                <div class="a_center">
+                    <a href="">READ MORE</a>
+                </div>
             </article>
             <article>
                 <h2>テキストテキストテキスト</h2>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>2022年 1月1日</li>
+                    <li>カテゴリ1</li>
                 </ul>
+                <img src="../images_3/main2.jpg" alt="">
+                <p>
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                </p>
+                <div class="a_center">
+                    <a href="">READ MORE</a>
+                </div>
             </article>
             <article>
                 <h2>テキストテキストテキスト</h2>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>2021年 1月1日</li>
+                    <li>カテゴリ1</li>
                 </ul>
+                <img src="../images_3/main3.jpg" alt="">
+                <p>
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                    テキストテキストテキストテキストテキストテキストテキストテキスト
+                </p>
+                <div class="a_center">
+                    <a href="">READ MORE</a>
+                </div>
             </article>
         </div>
         <div class="aside">
