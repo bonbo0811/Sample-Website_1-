@@ -23,22 +23,31 @@
     </div>
     <div class="picup">
         <article>
+            <img src="../images_3/pickup1.jpg" alt="">
             <h2>
-                
+                テキストテキストテキストテキストテキストテキストテキストテキスト
             </h2>
-            <a href="">READ MORE</a>
+            <div class="a_center">
+                <a href="">READ MORE</a>
+            </div>
         </article>
         <article>
+            <img src="../images_3/pickup2.jpg" alt="">
             <h2>
-
+                テキストテキストテキストテキストテキストテキストテキストテキスト
             </h2>
-            <a href="">READ MORE</a>
+            <div class="a_center">
+                <a href="">READ MORE</a>
+            </div>
         </article>
         <article>
+            <img src="../images_3/pickup3.jpg" alt="">
             <h2>
-
+                テキストテキストテキストテキストテキストテキストテキストテキスト
             </h2>
-            <a href="">READ MORE</a>
+            <div class="a_center">
+                <a href="">READ MORE</a>
+            </div>
         </article>
     </div>
     <div class="container">
