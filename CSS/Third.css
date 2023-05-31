@@ -1,9 +1,17 @@
 @charset "UTF-8";
-/* bodyのCSS */
+/* body & 共有のCSS */
+
     body{
         width: 1200px;
     }
+
+    .a_center{
+        text-align: center;
+        font-size: small;
+    }
+
 /* ヘッダーのCSS */
+
     .header h1{
         font-size: 20px;
         font-weight: 100;
@@ -26,7 +34,53 @@
 
 /* picupのCSS */
 
+    .picup{
+        display: flex;
+        justify-content: center;
+    }
+
+    .picup article{
+        width: 370px;
+        margin: 10px 10px;
+    }
+
+    .picup img{
+        width: 100%;
+    }
+
+    .picup h2{
+        margin-top: 5px;
+        font-size: small;
+    }
+
 /* mainのCSS */
+
+    .main{
+        width: 800px;
+        margin: 60px 10px;
+    }
+    
+    .main article{
+        margin-bottom: 60px;
+    }
+
+    .main article img{
+        width: 100%;
+    }
+    
+    .main article ul{
+        list-style: none;
+        display: flex;
+        padding-left: 0;
+    }
+
+    .main article li{
+        margin-right: 30px;
+    }
+
+    .main p{
+        padding: 0 30px;
+    }
 
 /* asideのCSS */
 
