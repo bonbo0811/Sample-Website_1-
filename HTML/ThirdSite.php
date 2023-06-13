@@ -103,36 +103,41 @@
         </div>
         <div class="aside">
             <section class="author">
-                <img src="" alt="">
+                <img src="../images_3/author.jpg" alt="author">
                 <h3>Name</h3>
-                <p>テキストテキストテキスト</p>
+                <p>テキストテキストテキストテキスト
+                    テキストテキストテキストテキスト
+                    テキストテキストテキストテキスト
+                </p>
             </section>
             <section class="ranking">
                 <h3>Ranking</h3>
-                <img src="" alt="">
-                <h4>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</h4>
-            </section>
-            <section class="ranking">
-                <h3>Ranking</h3>
-                <img src="" alt="">
-                <h4>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</h4>
-            </section>
-            <section class="ranking">
-                <h3>Ranking</h3>
-                <img src="" alt="">
-                <h4>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</h4>
+                <img src="../images_3/ranking1.jpg" alt="">
+                <h4>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</h4>
+                <img src="../images_3/ranking2.jpg" alt="">
+                <h4>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</h4>
+                <img src="../images_3/ranking3.jpg" alt="">
+                <h4>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</h4>
             </section>
             <section class="archive">
+                <h3>Archive</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li class="top">XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
+                    <li>XXXX年XX月(XX)</li>
                 </ul>
             </section>
         </div>

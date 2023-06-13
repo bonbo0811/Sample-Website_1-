@@ -55,6 +55,10 @@
 
 /* mainのCSS */
 
+    .container{
+        display: flex;
+    }
+
     .main{
         width: 800px;
         margin: 60px 10px;
@@ -83,5 +87,56 @@
     }
 
 /* asideのCSS */
+
+    .aside{
+        width: 300px;
+        margin: 100px 50px;
+        text-align: center;
+    }
+
+    .aside h3{
+        margin: 30px;
+    }
+
+    .author{
+        margin-bottom: 100px;
+    }
+
+    .author img{
+        border-radius: 100px;
+        width: 50%;
+    }
+
+    .author p{
+        text-align: left;
+    }
+
+    .ranking{
+        margin-bottom: 100px;
+    }
+
+    .ranking img{
+        width: 100%;
+    }
+
+    .ranking h4{
+        text-align: left;
+        margin-top: 5px;
+    }
+
+    .archive ul{
+        list-style: none;
+        text-align: left;
+    }
+
+    .archive  .top{
+        border-top: 1px solid #CCCCCC;
+    }
+
+    .archive ul li{
+        padding: 15px 15px;
+        font-size: 13px;
+        border-bottom: 1px solid #CCCCCC;
+    }
 
 /* フッダーのCSS */
