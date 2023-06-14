@@ -145,26 +145,28 @@
     <div class="footer">
         <section class="item">
             <h3>About</h3>
-            <p></p>
+            <p>テキストテキストテキストテキストテキストテキストテキストテキスト
+                テキストテキストテキストテキストテキストテキストテキストテキスト
+            </p>
             <ul>
                 <li>▶︎プロフィール詳細</li>
                 <li>▶︎お仕事の依頼</li>
                 <li>▶︎お問い合わせ</li>
             </ul>
         </section>
-        <section class="item">
+        <section class="item menu">
             <h3>Menu</h3>
             <p></p>
             <ul>
-                <li>NEW</li>
+                <li class="top">NEW</li>
                 <li>COLUMN</li>
                 <li>SERIES</li>
                 <li>Q&A</li>
             </ul>
         </section>
-        <section class="item">
+        <section class="item twitter">
             <h3>Twitter</h3>
-            
+            <img src="../images_3/pickup1.jpg" alt="">
         </section>
     </div>
 </body>
