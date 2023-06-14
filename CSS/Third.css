@@ -24,8 +24,10 @@
         background-color: black;
         color: beige;
         font-size: 13px;
-        padding: 10px 20px;
+        padding: 10px 20px 10px 120px;
         margin-top: 0;
+        margin-right: calc(50% - 50vw);
+        margin-left: calc(50% - 50vw);
     }
 
     .header ul li{
@@ -140,3 +142,43 @@
     }
 
 /* フッダーのCSS */
+
+    .footer {
+        background-color: #F5F5F5;
+        display: flex;
+        justify-content: center;
+        margin-right: calc(50% - 50vw);
+        margin-left: calc(50% - 50vw);
+    }
+
+    .footer .item{
+        width: 250px;
+        margin: 30px 30px 70px 30px;
+    }
+
+    .footer .item p{
+        font-size: 12px;
+    }
+
+    .footer .item ul{
+        list-style: none;
+        padding-left: 0;
+    }
+
+    .footer .item ul li{
+        font-size: 12px;
+    }
+
+    .footer .menu .top{
+        border-top: 1px solid #CCCCCC;
+    }
+
+    .footer .menu ul li{
+        padding: 13px 5px;
+        border-bottom: 1px solid #CCCCCC;
+    }
+
+    .footer .twitter img{
+        width: 100%;
+    }
+
