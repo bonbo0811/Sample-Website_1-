@@ -8,6 +8,7 @@
     .a_center{
         text-align: center;
         font-size: small;
+        font-weight: 10;
     }
 
 /* ヘッダーのCSS */
@@ -188,5 +189,58 @@
     .footer .copy{
         text-align: center;
         padding-bottom: 10px;
+    }
+
+    /* レスポンシブ対応 */
+
+    @media screen and (max-width: 480px) {
+
+    /* ヘッダーのCSS */
+
+        .header h1{
+            font-size: 80px;
+        }
+
+        .header ul{
+            padding-left: 0;
+            margin-right: 0;
+            margin-left: 0;
+            justify-content: center;
+        }
+
+        .header ul li{
+            font-size: 40px;
+            padding: 25px 10px;
+            margin: 0 40px;
+        }
+
+    /* picupのCSS */
+
+        .picup{
+            display: block;
+            margin-top: 80px;
+            justify-content: center;
+        }
+
+        .picup article{
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .picup article h2{
+            font-size: 50px;
+        }
+
+        .picup article .a_center{
+            font-size: 50px;
+            margin-bottom: 80px;
+        }
+
+
+    /* mainのCSS */
+
+    /* asideのCSS */
+
+    /* フッダーのCSS */
     }
 
