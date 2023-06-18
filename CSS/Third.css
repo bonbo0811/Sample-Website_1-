@@ -145,10 +145,13 @@
 
     .footer {
         background-color: #F5F5F5;
-        display: flex;
-        justify-content: center;
         margin-right: calc(50% - 50vw);
         margin-left: calc(50% - 50vw);
+    }
+
+    .footer .items{
+        justify-content: center;
+        display: flex;
     }
 
     .footer .item{
@@ -180,5 +183,10 @@
 
     .footer .twitter img{
         width: 100%;
+    }
+
+    .footer .copy{
+        text-align: center;
+        padding-bottom: 10px;
     }
 
