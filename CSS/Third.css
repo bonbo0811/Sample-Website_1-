@@ -112,7 +112,7 @@
     }
 
     .author img{
-        border-radius: 100px;
+        border-radius: 100%;
         width: 50%;
     }
 
@@ -131,6 +131,7 @@
     .ranking h4{
         text-align: left;
         margin-top: 5px;
+        font-weight: 100;
     }
 
     .archive ul{
@@ -146,6 +147,7 @@
         padding: 15px 15px;
         font-size: 13px;
         border-bottom: 1px solid #CCCCCC;
+        font-weight: 100;
     }
 
 /* フッダーのCSS */
@@ -280,6 +282,42 @@
         }
 
     /* asideのCSS */
+
+        .aside{
+            width: 90%;
+            margin: 200px auto;
+        }
+
+        .aside h3{
+            font-size: 50px;
+            margin: 70px;
+        }
+
+        .author{
+            margin-bottom: 150px;
+        }
+
+        .author img{
+            width: 40%;
+        }
+
+        .author p{
+            font-size: 40px;
+        }
+
+        .ranking h4{
+            font-size: 45px;
+        }
+
+        .archive ul{
+            padding-left: 0;
+        }
+
+        .archive ul li{
+            font-size: 50px;
+            padding: 45px 60px;
+            width: 90%;
+        }
 
     /* フッダーのCSS */
     }
