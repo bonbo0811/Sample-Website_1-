@@ -11,7 +11,7 @@
 
 <body>
     <div class="header">
-        <h1>Sample Web Site</h1>
+        <h1>Web Site</h1>
         <div class="nav">
             <ul>
                 <li><a href="#About">About</a></li>
@@ -29,8 +29,12 @@
                 <div class="profile">
                     <img src="images/profile_pic.jpg" alt="プロフィールの画像">
                     <ul>
-                        <li><h3>大久保 賢人</h3></li>
-                        <li>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</li>
+                        <li><h3>ぼんぼコーディング</h3></li>
+                        <li>
+                            中部地方で現役エンジニアとして働いているぼんぼです。<br>
+                            HPのコーディングやWEB制作をメインに行なっています。
+                            サイト全体の作成はもちろん、1ページの作成も承りますのでお気軽にご相談ください。
+                        </li>
                     </ul>
                 </div>
             </section>
@@ -41,12 +45,12 @@
                         <li>
                             <a href="./HTML/SecondSite.php"><img src="images/タイトル①.jpg" alt="自転車の画像"></a>
                             <h3>WEBサイト1</h3>
-                            <p>作成したサンプルウェブページです。</p>
+                            <p>作成したサンプルのウェブページです。</p>
                         </li>
                         <li>
                             <a href="./HTML/ThirdSite.php"><img src="images/タイトル②.jpg" alt="自転車の画像"></a>
                             <h3>WEBサイト2</h3>
-                            <p>作成したサンプルウェブページです。</p>
+                            <p>作成したサンプルのウェブページです。</p>
                         </li>
                         <li>
                             <img src="images/タイトル③.jpg" alt="自転車の画像">
@@ -59,7 +63,7 @@
         </div>
     </div>
     <div class="footer">
-        <small>okubo_web 2022</small>
+        <small>bonbo_web 2022</small>
     </div>
 </body>
 
