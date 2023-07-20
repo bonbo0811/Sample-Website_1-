@@ -1,12 +1,40 @@
 @charset "UTF-8";
 /* body & 共有のCSS */
 
-    body{
+    body {
         width: 1200px;
     }
 
     .header .fixed-top {
         position: relative;
+    }
+
+/* mainのCSS */
+
+    .main h2{
+        font-size: 20px;
+    }
+
+    .product-list {
+        list-style: none;
+        padding-left: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .product-list li {
+        width: 23%;
+        margin: 10px 10px 25px 10px;
+    }
+
+    .product-list li img {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .product-list p {
+        margin-bottom: 0;
+        font-size: 13px;
     }
 
     /* レスポンシブ対応 */
