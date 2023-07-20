@@ -53,7 +53,7 @@
                             <p>作成したサンプルのウェブページです。</p>
                         </li>
                         <li>
-                            <a href="./HTML/FourthSite.php"><img src="images/タイトル③.jpg" alt="自転車の画像"></a>
+                            <a href="./HTML/FourthSites/FourthSite.php"><img src="images/タイトル③.jpg" alt="自転車の画像"></a>
                             <h3>WEBサイト3</h3>
                             <p>作成したサンプルのウェブページです。</p>
                         </li>

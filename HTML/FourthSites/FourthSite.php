@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="../CSS/Base.css">
-    <link rel="stylesheet" href="../CSS/Fourth.css">
+    <link rel="stylesheet" href="../../CSS/Base.css">
+    <link rel="stylesheet" href="../../CSS/Fourth.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <title>FourthSite</title>
 </head>
@@ -29,7 +29,51 @@
     </div>
 
     <div class="main">
-        <h2>main</h2>
+        <h2>Products</h2>
+        <div class="top">
+            <ul class="product-list">
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥15,000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥28,000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥18,000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥7,8000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥36,000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥1,5000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥1,5000 + Tax</p>
+                </li>
+                <li>
+                    <img src="../../images_4/item1.jpg" alt="itemの画像">
+                    <p>プロダクダクト</p>
+                    <p>¥1,5000 + Tax</p>
+                </li>
+            </ul>
+        </div>
     </div>
 
     <div class="footer">
