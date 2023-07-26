@@ -37,6 +37,48 @@
         font-size: 13px;
     }
 
+    .paginat {
+        list-style: none;
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 80px;
+    }
+
+    .paginat li {
+        margin:0 15px;
+        font-size: 15px;
+    }
+
+    .paginat a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .footer {
+        display: flex;
+    }
+
+    .footerList {
+        list-style: none;
+        padding-left: 0;
+        display: flex;
+    } 
+
+    .footerList li {
+        margin: 0 20px 0 0;
+    }
+
+    .footerList a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .footer .copy{
+        margin-left: auto;
+        font-size: 12px;
+    }
+
     /* レスポンシブ対応 */
 
     @media screen and (max-width: 480px) {

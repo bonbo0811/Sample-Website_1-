@@ -15,7 +15,7 @@
         <div class="nav">
             <ul>
                 <li><a href="#About">About</a></li>
-                <li><a href="#Hobby">Hobby</a></li>
+                <li><a href="#WebSites">Web Sites</a></li>
             </ul>
         </div>
     </div>
@@ -38,9 +38,9 @@
                     </ul>
                 </div>
             </section>
-            <section class="Hobby">
-                <h2><a id="Hobby"><span class="under">Hobby</span></a></h2>
-                <div class="Hobby">
+            <section class="WebSites">
+                <h2><a id="WebSites"><span class="under">Web Sites</span></a></h2>
+                <div class="WebSites">
                     <ul>
                         <li>
                             <a href="./HTML/SecondSite.php"><img src="images/タイトル①.jpg" alt="自転車の画像"></a>
@@ -53,7 +53,7 @@
                             <p>作成したサンプルのウェブページです。</p>
                         </li>
                         <li>
-                            <a href="./HTML/FourthSites/FourthSite.php"><img src="images/タイトル③.jpg" alt="自転車の画像"></a>
+                            <a href="./HTML/FourthSites/index.php"><img src="images/タイトル③.jpg" alt="自転車の画像"></a>
                             <h3>WEBサイト3</h3>
                             <p>作成したサンプルのウェブページです。</p>
                         </li>

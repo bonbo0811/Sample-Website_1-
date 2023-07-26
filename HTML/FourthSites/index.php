@@ -22,7 +22,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                <a class="nav-link" href="#">Home</a>
+                <a class="nav-link" href="#">PRODUCTS</a>
+                </li>
+                <li class="nav-item active">
+                <a class="nav-link" href="#">ABOUT</a>
+                </li>
+                <li class="nav-item active">
+                <a class="nav-link" href="#">COMPANY</a>
+                </li>
+                <li class="nav-item active">
+                <a class="nav-link" href="#">CONTACT</a>
                 </li>
             </ul>
         </nav>
@@ -73,11 +82,23 @@
                     <p>¥1,5000 + Tax</p>
                 </li>
             </ul>
+            <ul class="paginat">
+                <li><a href="">View More</a></li>
+                <li><a href="">1</a></li>
+                <li><a href="">2</a></li>
+            </ul>
         </div>
     </div>
 
     <div class="footer">
-        <h2>footer</h2>
+        <ul class="footerList">
+            <li><a href="">INSTAGRAM</a></li>
+            <li><a href="">TWITTER</a></li>
+            <li><a href="">FACEBOOK</a></li>
+        </ul>
+        <div class="copy">
+            <p>© Furniture Design</p>
+        </div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
