@@ -12,7 +12,9 @@
 /* mainのCSS */
 
     .main h2{
-        font-size: 20px;
+        font-size: 15px;
+        margin-top: 35px;
+        margin-bottom: 20px;
     }
 
     .product-list {
@@ -72,6 +74,7 @@
     .footerList a {
         text-decoration: none;
         color: black;
+        font-size: 13px;
     }
 
     .footer .copy{

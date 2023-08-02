@@ -38,53 +38,7 @@
     </div>
 
     <div class="main">
-        <div class="top">
-            <ul class="product-list">
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥15,000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥28,000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥18,000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥7,8000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥36,000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥1,5000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥1,5000 + Tax</p>
-                </li>
-                <li>
-                    <img src="../../images_4/item1.jpg" alt="itemの画像">
-                    <p>プロダクダクト</p>
-                    <p>¥1,5000 + Tax</p>
-                </li>
-            </ul>
-            <ul class="paginat">
-                <li><a href="./products.php">View More</a></li>
-            </ul>
-        </div>
+        <p>main</p>
     </div>
 
     <div class="footer">

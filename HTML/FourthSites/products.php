@@ -38,6 +38,7 @@
     </div>
 
     <div class="main">
+        <h2>Products</h2>
         <div class="top">
             <ul class="product-list">
                 <li>
@@ -82,7 +83,9 @@
                 </li>
             </ul>
             <ul class="paginat">
-                <li><a href="./products.php">View More</a></li>
+                <li><a href="">1</a></li>
+                <li><a href="">2</a></li>
+                <li><a href="">3</a></li>
             </ul>
         </div>
     </div>
